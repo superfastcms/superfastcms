@@ -15,7 +15,7 @@ superfastcms.org/docs (documentaion) : open a public repo (https://spinacms.com/
 -> open repo for basic theme (public)
 -> LIVE TESTING REPO : we will create a theme for news website in GO-LIVE  (private) and URL is https://sunrisestate.in   [we will host in cloud by installing core gem and theme ]
 
-->
+
 
 
 
